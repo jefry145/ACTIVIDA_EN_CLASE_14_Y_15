@@ -1,0 +1,6 @@
+input{
+    width: 30%;
+}
+::placeholder{
+    color: rgb(146, 146, 146);
+}
